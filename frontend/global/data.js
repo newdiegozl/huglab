@@ -1,5 +1,3 @@
-export const headerTabsContent = ["Configuração", "Documentação", "Contribuições"];
-
 export const modelCardsDetails = [
   {
     modelName: 'Llama 3.2 3B',

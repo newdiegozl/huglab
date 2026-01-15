@@ -1,3 +1,4 @@
+depcheck
 # kill python process
 ps aux | grep python
 pkill -f "python.\*llama_server"

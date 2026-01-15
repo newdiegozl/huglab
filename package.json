@@ -36,7 +36,6 @@
     "wait-on": "^8.0.1"
   },
   "dependencies": {
-    "@google/genai": "^1.32.0",
     "@huggingface/hub": "^2.7.1",
     "i18next": "^25.3.4",
     "i18next-browser-languagedetector": "^8.2.0",
